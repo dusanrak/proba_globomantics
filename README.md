@@ -8,3 +8,5 @@ control testing.
 # dodato
 # dont do this
 again
+
+> Note: version 2 will be way better
